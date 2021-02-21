@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://JohnVWebb.github.io/blogsitemap.xml
